@@ -1,0 +1,20 @@
+{
+  "name": "linera-match",
+  "version": "1.0.0",
+  "description": "Memory matching game on Linera microchains",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "build": "./scripts/build.sh",
+    "deploy": "./scripts/deploy.sh",
+    "dev": "nodemon server/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

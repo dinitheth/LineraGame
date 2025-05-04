@@ -1,0 +1,19 @@
+[package]
+name = "match-contract"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+async-trait.workspace = true
+linera-sdk.workspace = true
+serde.workspace = true
+thiserror.workspace = true
+
+[lib]
+crate-type = ["cdylib"]
+
+[profile.release]
+debug = false
+lto = true
+opt-level = 's'
+strip = "debuginfo"

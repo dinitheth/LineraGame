@@ -1,0 +1,460 @@
+2025-05-05 02:00:02 [4576]  OOBELib: __OOBELIB_LOG_FILE__
+2025-05-05 02:00:02 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:02 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:02 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:02 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:02 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.0 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Starts*************
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  OOBELib: Version 6.0.0.114,6.0
+
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  ServiceLoader: using logging service now
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  PCDService: PCD Service in non-threaded mode
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OOBELib: (re)load Local Dispatch Table status-[0].
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OPMWrapper: Failed in getting value for key in OPMGetValueForKey
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  OOBELib: Failed to get Proxy username in OPM DB
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  AXFBLicensing: All function pointers successfully retrieved
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Starting up SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service construction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: No license found!
+
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD STARTED
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: looking for library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  ServiceLoader: Found library C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_upgrade.dll
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: OOBELibImpl::CommitPCD ENDED
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  OOBELib: Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Shutting down SLCore 2.0 Release (build 2.0.1.301001).
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  SLCoreService: Service destruction took 0.1 ms and succeed.
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************
+2025-05-05 02:00:03 [4576]  OOBELib: *************OOBELib Session Ends*************

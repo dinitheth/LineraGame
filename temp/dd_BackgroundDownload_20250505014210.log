@@ -1,0 +1,19 @@
+[3b84:0001][2025-05-05T01:42:12] Creating new ExperimentationService
+[3b84:0001][2025-05-05T01:42:12] Telemetry property VS.ABExp.Flights : lazytoolboxinit;fwlargebuffer;refactoring;spmoretempsbtn1;asloff;keybindgoldbarext;asynccsproj;vsfricheditor;completionapi;87ce9466:30775294;7a6g6897:31242874
+[3b84:0001][2025-05-05T01:42:14] UserActivityMonitor started.
+[3b84:0001][2025-05-05T01:42:14] A Wmi provider at \\localhost\root\cimv2 is not registered.
+[3b84:0001][2025-05-05T01:42:14] WmiValidatorResult: Success
+[3b84:0001][2025-05-05T01:42:14] Telemetry property VS.SetupEngine.ActivityId : 168391a5-ffc4-48bf-a1eb-34dd9f7c84f3
+[3b84:0001][2025-05-05T01:42:14] Telemetry property VS.SetupEngine.IsChildProcess : False
+[3b84:0001][2025-05-05T01:42:14] Telemetry property VS.SetupEngine.IsNoCancel : True
+[3b84:0001][2025-05-05T01:42:14] Telemetry property VS.SetupEngine.HasFunctionalWmiProvider : Success
+[3b84:0001][2025-05-05T01:42:14] BEGIN: Background Download
+[3b84:0001][2025-05-05T01:42:14] Running pre-check verification.
+[3b84:0001][2025-05-05T01:42:14] Error: Pre-check verification: Local machine is using a metered connection.
+[3b84:0001][2025-05-05T01:42:14] Precheck: Failure in checking if the drive exists: Value cannot be null.
+Parameter name: path
+[3b84:0001][2025-05-05T01:42:14] Error: Pre-check verification failed with error(s) :  BackgroundDownloadPrecheck.
+[3b84:0001][2025-05-05T01:42:14] Error 0x1f42: BackgroundDownloader Failed: Pre-check verification failed with error(s) :  BackgroundDownloadPrecheck.
+   at Microsoft.VisualStudio.Setup.PrecheckManager.RunPrechecks(PrecheckParameters precheckParameters, VariableCollection properties)
+   at Microsoft.VisualStudio.Setup.BackgroundDownloader.RunImpl()
+[3b84:0001][2025-05-05T01:42:14] END: Background Download

@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = ["match-contract"]
+
+[workspace.dependencies]
+async-trait = "0.1.74"
+linera-sdk = "0.14.0"
+serde = { version = "1.0.188", features = ["derive"] }
+thiserror = "1.0.49"
