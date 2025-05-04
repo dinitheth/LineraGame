@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LineraMatch - Memory Game on Microchains</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>LineraMatch</h1>
+            <p>Memory Game on Linera Microchains</p>
+        </header>
+
+        <div class="game-stats">
+            <div class="stat">
+                <span>Moves:</span>
+                <span id="moves">0</span>
+            </div>
+            <div class="stat">
+                <span>Time:</span>
+                <span id="time">00:00</span>
+            </div>
+            <div class="stat">
+                <span>High Score:</span>
+                <span id="high-score">0</span>
+            </div>
+        </div>
+
+        <div class="player-stats">
+            <div class="stat">
+                <span>Games Played:</span>
+                <span id="games-played">0</span>
+            </div>
+            <div class="stat">
+                <span>Games Won:</span>
+                <span id="games-won">0</span>
+            </div>
+            <div class="stat">
+                <span>Games Lost:</span>
+                <span id="games-lost">0</span>
+            </div>
+        </div>
+
+        <div class="game-controls">
+            <button id="start-game">Start New Game</button>
+            <select id="difficulty">
+                <option value="easy">Easy (4x4)</option>
+                <option value="medium">Medium (6x6)</option>
+                <option value="hard">Hard (8x8)</option>
+            </select>
+        </div>
+
+        <div id="game-board" class="game-board"></div>
+
+        <div id="game-over" class="modal hidden">
+            <div class="modal-content">
+                <h2 id="result-message">Game Over!</h2>
+                <div class="result-stats">
+                    <p>Moves: <span id="result-moves">0</span></p>
+                    <p>Time: <span id="result-time">00:00</span></p>
+                    <p>Score: <span id="result-score">0</span></p>
+                </div>
+                <button id="play-again">Play Again</button>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Built on <a href="https://linera.io" target="_blank">Linera Microchains</a> | <a href="https://github.com/yourusername/linera-match" target="_blank">GitHub</a></p>
+    </footer>
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
